@@ -1,0 +1,32 @@
+# Infrastructure
+10.10.1.1       gateway.lan         gateway
+10.10.1.6       pi1.lan             pi1
+10.10.1.7       pi2.lan             pi2
+10.10.1.10      sw1.lan             sw1
+10.10.1.20      ap1.lan             ap1
+10.10.1.21      ap2.lan             ap2
+10.10.1.51      server.lan          server
+10.10.1.53      discovery.lan       discovery
+10.10.1.56      unifi.lan           unifi
+
+# Workstations
+10.10.1.70      workstation.lan     workstation
+10.10.1.80      livingroom-tv.lan   livingroom-tv
+
+# Download Tools
+10.10.4.220     sabnzbd.lan         sabnzbd
+10.10.4.221     radarr.lan          radarr
+10.10.4.222     sonarr.lan          sonarr
+
+# Media
+10.10.4.230     plex.lan            plex
+10.10.4.231     tautulli.lan        tautulli
+10.10.4.232     ombi.lan            ombi
+
+# Management
+10.10.4.200     gitea.lan           gitea
+10.10.4.205     smokeping.lan       smokeping
+10.10.4.210     letsencrypt.lan     letsencrypt
+10.10.4.215     influxdb.lan        influxdb
+10.10.4.216     grafana.lan         grafana
+10.10.4.217     chronograf.lan      chronograf
