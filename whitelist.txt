@@ -52,6 +52,7 @@ dashboard.plex.tv
 dataplicity.com
 def-vef.xboxlive.com
 delivery.vidible.tv
+derekpurdy.com
 device.auth.xboxlive.com
 dev.virtualearth.net
 displaycatalog.mp.microsoft.com
