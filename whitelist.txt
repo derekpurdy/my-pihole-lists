@@ -9,6 +9,7 @@ alluremedia.com.au
 amazonaws.com
 android.clients.google.com
 api.ipify.org
+api.locize.io
 api.rlje
 api.rlje.net
 app-api.ted.com
@@ -228,4 +229,3 @@ youtu.be
 youtube.com
 youtube-nocookie.com
 yt3.ggpht.com
-api.locize.io
