@@ -17,6 +17,7 @@
 10.10.4.220     sabnzbd.lan         sabnzbd
 10.10.4.221     radarr.lan          radarr
 10.10.4.222     sonarr.lan          sonarr
+10.10.4.223     hydra.lan           hydra
 
 # Media
 10.10.4.230     plex.lan            plex
