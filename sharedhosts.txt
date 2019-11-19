@@ -32,3 +32,4 @@
 10.10.4.216     grafana.lan         grafana
 10.10.4.217     chronograf.lan      chronograf
 10.10.4.218     traktarr.lan        traktarr
+10.10.4.219     jackett.lan         jackett
