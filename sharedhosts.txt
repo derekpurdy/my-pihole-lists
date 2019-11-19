@@ -18,6 +18,7 @@
 10.10.4.221     radarr.lan          radarr
 10.10.4.222     sonarr.lan          sonarr
 10.10.4.223     hydra.lan           hydra
+10.10.4.224     lidarr.lan          lidarr
 
 # Media
 10.10.4.230     plex.lan            plex
@@ -31,5 +32,4 @@
 10.10.4.215     influxdb.lan        influxdb
 10.10.4.216     grafana.lan         grafana
 10.10.4.217     chronograf.lan      chronograf
-10.10.4.218     traktarr.lan        traktarr
-10.10.4.219     lidarr.lan          lidarr
+10.10.4.219     telegraf.lan        telegraf
