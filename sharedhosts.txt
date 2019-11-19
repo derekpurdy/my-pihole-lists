@@ -19,6 +19,7 @@
 10.10.4.222     sonarr.lan          sonarr
 10.10.4.223     hydra.lan           hydra
 10.10.4.224     lidarr.lan          lidarr
+10.10.4.225     lazylibrarian.lan   lazylibrarian
 
 # Media
 10.10.4.230     plex.lan            plex
