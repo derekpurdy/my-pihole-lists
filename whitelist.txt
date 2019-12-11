@@ -188,6 +188,7 @@ thetvdb.com
 tinyurl.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
+t.notifications.canadapost-postescanada.ca
 traffic.libsyn.com
 tvdb2.plex.tv
 tvthemes.plexapp.com
