@@ -41,6 +41,7 @@ clients4.google.com
 clients5.google.com
 clients6.google.com
 client-s.gateway.messenger.live.com
+cm.everesttech.net
 cpms35.spop10.ams.plex.bz
 cpms.spop10.ams.plex.bz
 crisp.chat
@@ -140,6 +141,7 @@ onedrive.live.com
 outlook.live.com
 outlook.office365.com
 pinterest.com
+pixel.everesttech.net
 placehold.it
 placeholdit.imgix.net
 players.brightcove.net
@@ -208,6 +210,7 @@ wordpress.com
 wp.com
 ws.audioscrobbler.com
 www.dataplicity.com
+www.everestjs.net
 www.googleapis.com
 www.icloud.com
 www.linuxtracker.org
@@ -230,6 +233,3 @@ youtu.be
 youtube.com
 youtube-nocookie.com
 yt3.ggpht.com
-www.everestjs.net
-pixel.everesttech.net
-cm.everesttech.net
