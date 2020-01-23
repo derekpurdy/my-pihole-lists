@@ -230,3 +230,6 @@ youtu.be
 youtube.com
 youtube-nocookie.com
 yt3.ggpht.com
+www.everestjs.net
+pixel.everesttech.net
+cm.everesttech.net
