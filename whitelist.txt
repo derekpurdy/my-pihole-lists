@@ -13,6 +13,7 @@ api.locize.io
 api.rlje
 api.rlje.net
 app-api.ted.com
+app.launchdarkly.com
 appleid.apple.com
 app.plex.tv
 appsbackup-pa.clients6.google.com
@@ -208,6 +209,7 @@ wordpress.com
 wp.com
 ws.audioscrobbler.com
 www.dataplicity.com
+www.everestjs.net
 www.googleapis.com
 www.icloud.com
 www.linuxtracker.org
@@ -230,5 +232,3 @@ youtu.be
 youtube.com
 youtube-nocookie.com
 yt3.ggpht.com
-app.launchdarkly.com
-www.everestjs.net
