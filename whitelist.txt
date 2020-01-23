@@ -231,3 +231,5 @@ youtu.be
 youtube.com
 youtube-nocookie.com
 yt3.ggpht.com
+app.launchdarkly.com
+pixel.everesttech.net
