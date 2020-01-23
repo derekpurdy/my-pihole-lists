@@ -231,3 +231,4 @@ youtube.com
 youtube-nocookie.com
 yt3.ggpht.com
 app.launchdarkly.com
+www.everestjs.net
