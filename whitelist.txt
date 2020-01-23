@@ -208,6 +208,7 @@ wordpress.com
 wp.com
 ws.audioscrobbler.com
 www.dataplicity.com
+www.everestjs.net
 www.googleapis.com
 www.icloud.com
 www.linuxtracker.org
@@ -230,4 +231,3 @@ youtu.be
 youtube.com
 youtube-nocookie.com
 yt3.ggpht.com
-www.everestjs.net
