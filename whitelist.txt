@@ -7,6 +7,7 @@ akamaitechnologies.com
 akamaized.net
 alluremedia.com.au
 amazonaws.com
+amzn.to
 android.clients.google.com
 api.ipify.org
 api.locize.io
@@ -232,4 +233,3 @@ youtu.be
 youtube.com
 youtube-nocookie.com
 yt3.ggpht.com
-amzn.to
