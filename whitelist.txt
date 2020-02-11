@@ -63,6 +63,7 @@ display.ugc.bazaarvoice.com
 dl.delivery.mp.microsoft.com
 dl.dropbox.com
 dl.dropboxusercontent.com
+dls.di.atlas.samsung.com
 dns.msftncsi.com
 download.sonarr.tv
 drift.com
@@ -198,6 +199,7 @@ twimg.com
 twitter.com
 ui.skype.com
 unsplash.com
+usage.trackjs.com
 us-east.ethash-hub.miningpoolhub.com
 video-stats.l.google.com
 videos.vidible.tv
