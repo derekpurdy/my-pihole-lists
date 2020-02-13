@@ -37,4 +37,5 @@
 10.10.4.215     influxdb.lan        influxdb
 10.10.4.216     grafana.lan         grafana
 10.10.4.217     chronograf.lan      chronograf
+10.10.4.218     kapacitor.lan       kapacitor
 10.10.4.219     telegraf.lan        telegraf
