@@ -13,8 +13,8 @@
 10.10.2.1       vpngateway.lan      vpngateway
 
 # Workstations
-10.10.1.70      workstation.lan     workstation
-10.10.1.80      livingroom-tv.lan   livingroom-tv
+# 10.10.1.70      workstation.lan     workstation
+# 10.10.1.80      livingroom-tv.lan   livingroom-tv
 
 # Download Tools
 10.10.4.220     sabnzbd.lan         sabnzbd
