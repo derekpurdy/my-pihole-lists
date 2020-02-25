@@ -23,6 +23,7 @@
 10.10.4.223     hydra.lan           hydra
 10.10.4.224     lidarr.lan          lidarr
 10.10.4.225     lazylibrarian.lan   lazylibrarian
+10.10.4.226     jackett.lan         jackett
 
 # Media
 10.10.4.230     plex.lan            plex
@@ -30,7 +31,7 @@
 10.10.4.232     ombi.lan            ombi
 
 # Management
-10.10.4.200     gitea.lan           gitea
+# 10.10.4.200     gitea.lan           gitea
 10.10.4.201     mqtt.lan            mqtt
 10.10.4.205     smokeping.lan       smokeping
 10.10.4.210     letsencrypt.lan     letsencrypt
