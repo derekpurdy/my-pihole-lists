@@ -31,7 +31,7 @@
 10.10.4.232     ombi.lan            ombi
 
 # Management
-# 10.10.4.200     gitea.lan           gitea
+10.10.4.200     nagios.lan          nagios
 10.10.4.201     mqtt.lan            mqtt
 10.10.4.205     smokeping.lan       smokeping
 10.10.4.210     letsencrypt.lan     letsencrypt
