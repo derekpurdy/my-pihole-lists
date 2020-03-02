@@ -33,6 +33,7 @@
 # Management
 10.10.4.200     nagios.lan          nagios
 10.10.4.201     mqtt.lan            mqtt
+10.10.4.202     logstash.lan        logstash
 10.10.4.205     smokeping.lan       smokeping
 10.10.4.210     letsencrypt.lan     letsencrypt
 10.10.4.215     influxdb.lan        influxdb
