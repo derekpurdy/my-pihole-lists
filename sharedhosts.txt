@@ -37,6 +37,7 @@
 10.10.4.203     logstash.lan        logstash
 10.10.4.204     kibana.lan          kibana
 10.10.4.205     smokeping.lan       smokeping
+10.10.4.206     heimdall.lan        heimdall
 10.10.4.210     letsencrypt.lan     letsencrypt
 10.10.4.215     influxdb.lan        influxdb
 10.10.4.216     grafana.lan         grafana
