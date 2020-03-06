@@ -40,6 +40,7 @@
 10.10.4.206     heimdall.lan        heimdall
 10.10.4.207     zabbix.lan          zabbix
 10.10.4.208     mysql.lan           mysql
+10.10.4.209     mariadb.lan         mariadb
 10.10.4.210     letsencrypt.lan     letsencrypt
 10.10.4.215     influxdb.lan        influxdb
 10.10.4.216     grafana.lan         grafana
