@@ -29,6 +29,7 @@
 10.10.4.230     plex.lan            plex
 10.10.4.231     tautulli.lan        tautulli
 10.10.4.232     ombi.lan            ombi
+10.10.4.233     requestrr.lan       requestrr
 
 # Management
 10.10.4.200     nagios.lan          nagios
