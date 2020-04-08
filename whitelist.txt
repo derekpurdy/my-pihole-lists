@@ -8,6 +8,7 @@ akamaized.net
 alluremedia.com.au
 amazonaws.com
 amzn.to
+analytics.homedepot.ca
 android.clients.google.com
 api.ipify.org
 api.locize.io
@@ -182,6 +183,7 @@ staging.plex.tv
 status.plex.tv
 support.microsoft.com
 surveymonkey.com
+swasc.homedepot.ca
 synology.com
 s.youtube.com
 s.ytimg.com
