@@ -1,8 +1,11 @@
 
 0.client-channel.google.com
+1.0
+1587484824
 1drv.com
 2.android.pool.ntp.org
 500: Internal Server Error
+503
 akamaihd.net
 akamaitechnologies.com
 akamaized.net
@@ -31,6 +34,9 @@ bing.com
   <body>
 brightcove.net
 bufferapp.com
+byte
+cache
+cache-mdw17328-mdw
 cdn2.optimizely.com
 cdn3.optimizely.com
 cdn.cloudflare.net
@@ -85,6 +91,7 @@ error
 ethereum.miningpoolhub.com
 feeds.feedburner.com
 filament.io
+first
 fonts.gstatic.com
 forums.sonarr.tv
 geo3.ggpht.com
@@ -106,6 +113,7 @@ hls.ted.com
     <hr>
 </html>
 <html>
+html
  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 hub.miningpoolhub.com
 i1.ytimg.com
@@ -172,6 +180,7 @@ products.office.com
 proxy02.pop.ord.plex.bz
 proxy.plex.bz
 proxy.plex.tv
+public
 pubsub.plex.bz
 pubsub.plex.tv
     <p>Varnish cache server</p>
@@ -254,6 +263,7 @@ www.youtube-nocookie.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xbox.ipv6.microsoft.com
 xflight.xboxlive.com
+xhtml
 xkms.xboxlive.com
 <?xml version="1.0" encoding="utf-8"?>
 xsts.auth.xboxlive.com
@@ -262,13 +272,3 @@ youtu.be
 youtube.com
 youtube-nocookie.com
 yt3.ggpht.com
-html
-public
-xhtml
-1.0
-503
-first
-byte
-cache-mdw17328-mdw
-1587484824
-cache
