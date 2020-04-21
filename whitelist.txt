@@ -1,3 +1,4 @@
+
 0.client-channel.google.com
 1drv.com
 2.android.pool.ntp.org
@@ -26,6 +27,8 @@ aspnetcdn.com
 attestation.xboxlive.com
 ax.phobos.apple.com.edgesuite.net
 bing.com
+  </body>
+  <body>
 brightcove.net
 bufferapp.com
 cdn2.optimizely.com
@@ -68,6 +71,7 @@ dl.dropbox.com
 dl.dropboxusercontent.com
 dls.di.atlas.samsung.com
 dns.msftncsi.com
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 download.sonarr.tv
 dpm.demdex.net
 drift.com
@@ -93,8 +97,16 @@ googleapis.com
 graph.facebook.com
 gravatar.com
 gstatic.com
+    <h1>Error 503 first byte timeout</h1>
+    <h3>Guru Mediation:</h3>
+  </head>
+  <head>
 help.ui.xboxlive.com
 hls.ted.com
+    <hr>
+</html>
+<html>
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 hub.miningpoolhub.com
 i1.ytimg.com
 icloud.com
@@ -148,6 +160,8 @@ om.cbsi.com
 onedrive.live.com
 outlook.live.com
 outlook.office365.com
+    <p>Details: cache-mdw17328-MDW 1587484824 1256573489</p>
+    <p>first byte timeout</p>
 pinterest.com
 placehold.it
 placeholdit.imgix.net
@@ -160,6 +174,7 @@ proxy.plex.bz
 proxy.plex.tv
 pubsub.plex.bz
 pubsub.plex.tv
+    <p>Varnish cache server</p>
 raw.githubusercontent.com
 reddit.com
 redirector.googlevideo.com
@@ -198,6 +213,7 @@ tedcdn.com
 themoviedb.com
 thetvdb.com
 tinyurl.com
+    <title>503 first byte timeout</title>
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 t.notifications.canadapost-postescanada.ca
@@ -239,9 +255,20 @@ xboxexperiencesprod.experimentation.xboxlive.com
 xbox.ipv6.microsoft.com
 xflight.xboxlive.com
 xkms.xboxlive.com
+<?xml version="1.0" encoding="utf-8"?>
 xsts.auth.xboxlive.com
 yahoo.com
 youtu.be
 youtube.com
 youtube-nocookie.com
 yt3.ggpht.com
+html
+public
+xhtml
+1.0
+503
+first
+byte
+cache-mdw17328-mdw
+1587484824
+cache
