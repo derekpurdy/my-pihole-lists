@@ -7,6 +7,7 @@
 10.10.1.21      ap2.lan             ap2
 10.10.1.51      server.lan          server
 10.10.1.53      discovery.lan       discovery
+10.10.1.54      columbia.lan        columbia
 10.10.1.53      meet.lan            meet
 10.10.1.56      unifi.lan           unifi
 
