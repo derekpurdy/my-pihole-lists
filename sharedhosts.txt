@@ -46,6 +46,7 @@
 10.10.4.209     mariadb.lan         mariadb
 10.10.4.210     letsencrypt.lan     letsencrypt
 10.10.4.211     shinobi.lan         shinobi
+10.10.4.212     jenkins.lan         jenkins
 10.10.4.215     influxdb.lan        influxdb
 10.10.4.216     grafana.lan         grafana
 10.10.4.217     chronograf.lan      chronograf
