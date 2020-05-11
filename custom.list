@@ -39,3 +39,5 @@
 10.10.4.217 chronograf.lan
 10.10.4.218 kapacitor.lan
 10.10.4.219 telegraf.lan
+10.10.1.8 pi.lan
+10.10.1.8 dns.lan
