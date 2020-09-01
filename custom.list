@@ -34,3 +34,8 @@
 10.10.5.201 sumpmonitor.lan
 10.10.5.200 garagemonitor.lan
 10.10.1.240 octoprint.lan
+10.10.1.235 nextcloud.lan
+10.10.1.236 poste.lan
+10.10.1.237 home-assistant.lan
+10.10.1.237 homeassistant.lan
+10.10.1.237 ha.lan
