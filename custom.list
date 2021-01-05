@@ -11,7 +11,6 @@
 10.10.2.1 vpngateway.lan
 10.10.1.70 workstation.lan
 10.10.1.8 pi.lan
-10.10.1.8 dns.lan
 10.10.1.221 radarr.lan
 10.10.1.220 sabnzbd.lan
 10.10.1.222 sonarr.lan
@@ -30,9 +29,7 @@
 10.10.1.216 grafana.lan
 10.10.1.212 jenkins.lan
 10.10.1.208 mysql.lan
-10.10.5.202 alarmbutton.lan
 10.10.5.201 sumpmonitor.lan
-10.10.5.200 garagemonitor.lan
 10.10.1.240 octoprint.lan
 10.10.1.235 nextcloud.lan
 10.10.1.236 poste.lan
