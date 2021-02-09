@@ -207,3 +207,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 386,0,connectivitycheck.gstatic.com,1,1610467240,1610467240,"Owned by Google. Used by mobiles devices to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk"
 387,0,connectivitycheck.android.com,1,1610467240,1610467240,"Owned by Google. Used by mobiles devices to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk"
 388,0,www.msftconnecttest.com,1,1610467240,1610467240,"Owned by Microsoft. Used by Windows systems to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk"
+389,2,(\.|^)derekpurdy\.com$,1,1612838152,1612838152,

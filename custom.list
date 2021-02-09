@@ -37,3 +37,5 @@
 10.10.1.211 authelia.lan
 10.10.1.208 mariadb.lan
 10.10.1.212 redis.lan
+10.10.1.51 homeassistant.lan
+10.10.1.237 homeasssitant.lan
