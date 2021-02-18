@@ -210,3 +210,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 389,2,(\.|^)derekpurdy\.com$,1,1612838152,1612838152,
 390,0,v10.events.data.microsoft.com,1,1612986913,1612986913,"Xbox Achievements and game stats sync"
 391,0,v20.events.data.microsoft.com,1,1612986923,1612986923,"Xbox Achievements and game stats sync"
+392,0,daggerhashimoto.usa.nicehash.com,1,1613625883,1613625883,"Added from Query Log"
