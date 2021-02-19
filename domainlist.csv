@@ -212,3 +212,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 391,0,v20.events.data.microsoft.com,1,1612986923,1612986923,"Xbox Achievements and game stats sync"
 392,0,daggerhashimoto.usa.nicehash.com,1,1613625883,1613625883,"Added from Query Log"
 393,2,(\.|^)nicehash\.com$,1,1613659459,1613659459,"nicehash.com Mining"
+394,0,ethereum.miningpoolhub.com,1,1613679300,1613679300,"Added from Query Log"
+395,2,(\.|^)miningpoolhub\.com$,1,1613679317,1613679317,
+396,2,(\.|^)nanopool\.org$,1,1613679377,1613679377,
