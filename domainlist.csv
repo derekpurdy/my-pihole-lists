@@ -215,3 +215,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 394,0,ethereum.miningpoolhub.com,1,1613679300,1613679300,"Added from Query Log"
 395,2,(\.|^)miningpoolhub\.com$,1,1613679317,1613679317,
 396,2,(\.|^)nanopool\.org$,1,1613679377,1613679377,
+397,0,pi2.lan,1,1613713720,1613713720,
+398,0,pi1.lan,1,1613713725,1613713725,
